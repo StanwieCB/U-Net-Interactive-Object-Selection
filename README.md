@@ -3,7 +3,7 @@
 ## About
 SJTU CS337 group project done together by Yiheng Zhang*([@StanwieCB](https://github.com/StanwieCB)) and Yuheng Zhi*([@YuhengZhi](https://github.com/YuhengZhi))
 
-This project follows [Deep Interactive Object Selectio(CVPR2016)](http://ieeexplore.ieee.org/document/7780416/) 
+This project follows [Deep Interactive Object Selection(CVPR2016)](http://ieeexplore.ieee.org/document/7780416/) 
 
 ## Code
 All the code is uploaded in 
